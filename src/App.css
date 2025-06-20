@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.dark {
+  background-color: #000;
+  color: #fff;
+}
+
+.light {
+  background-color: #fff;
+  color: #000;
+}
+
+/* Like button */
+
+.redBG {
+  color: #fff;
+  background-color: red;
+}
+
+.whiteBG {
+  color: black;
+  background-color: #fff;
+}
